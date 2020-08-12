@@ -7,4 +7,4 @@
 <br/>
 <br/>
 
-<img src="assets/images/screen.png">
+<img src="./assets/images/screen.png">
